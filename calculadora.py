@@ -3,7 +3,7 @@ def main():
     seguir=True
     while (seguir):
         print("Calculadora de operaciones sencillas P2")
-        print("1.Sumar")
+        print("1.Sum")
         print("2.Restar")
         print("3.Multiplicar")
         print("4.Dividir")

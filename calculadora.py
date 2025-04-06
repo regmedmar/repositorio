@@ -13,8 +13,8 @@ def main():
         opcion = input("Elija una opción ")
         print ("Opción elegida: ", opcion)
         if opcion == "1":
-             num1= float(input ("Introduzca num 1: "))
-             num2= float(input ("Introduzca num 2: "))
+             num1= float(input ("Primer num 1: "))
+             num2= float(input ("Segundo num 2: "))
              resultado=num1 + num2
              print ("Resultado", resultado)
         seguir=opcion!="5"

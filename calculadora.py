@@ -6,7 +6,7 @@ def main():
         print("1.Sumar")
         print("2.Restar")
         print("3.Multiplicar")
-        print("4.Dividir")
+        print("4.Divid")
         print("5.Salir")
         opcion=input("Elija una opción")
         print ("Opción elegida", opcion)

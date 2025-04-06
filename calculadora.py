@@ -12,5 +12,5 @@ def main():
         print ("Opción elegida", opcion)
         seguir=opcion!="5"
 
-    if __name__=="__main__":
+if __name__=="__main__":
         main()

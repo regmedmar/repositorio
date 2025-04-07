@@ -20,6 +20,11 @@ def main():
              num2= float(input ("Segundo num 2: "))
              resultado=num1 - num2
              print ("Resultado", resultado)
+        if opcion == "3":
+             num1= float(input ("Primer num 1: "))
+             num2= float(input ("Segundo num 2: "))
+             resultado=num1 * num2
+             print ("Resultado", resultado)
         seguir=opcion!="5"
 if __name__=="__main__":
         main()

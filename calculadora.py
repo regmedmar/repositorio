@@ -6,8 +6,12 @@ def main():
         print("1.Sumar")
         print("2.Restar")
         print("3.Multiplicar")
+<<<<<<< HEAD
         print("4.Dividir")
         print("4.5 Potencia")
+=======
+        print("4.Divid")
+>>>>>>> 0cda8fa90b44dee5ce6fd1ae41a9427ca04a2e61
         print("5.Salir")
         
         opcion = input("Elija una opción ")
